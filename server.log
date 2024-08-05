@@ -1,0 +1,297 @@
+2024-07-17T10:47:19.572Z info: Server is running on port 3000
+2024-07-17T10:47:40.852Z info: Server is running on port 3000
+2024-07-17T10:50:41.229Z info: POST /login
+2024-07-17T10:50:41.230Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-17T10:51:46.094Z info: GET /login
+2024-07-17T10:57:01.833Z info: Server is running on port 3000
+2024-07-17T11:02:17.496Z info: POST /login
+2024-07-17T11:02:17.496Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-17T11:05:46.269Z info: POST /login
+2024-07-17T11:05:46.269Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-17T11:06:06.946Z info: POST /login
+2024-07-17T11:06:06.947Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-17T11:08:07.068Z info: POST /login
+2024-07-17T11:08:07.069Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-17T11:10:26.951Z info: POST /login
+2024-07-17T11:10:26.952Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-17T11:39:17.552Z info: Server is running on port 3000
+2024-07-17T11:47:37.657Z info: Server is running on port 3000
+2024-07-17T11:56:13.734Z info: Server is running on port 3000
+2024-07-17T11:57:55.183Z info: POST /
+2024-07-17T11:59:53.060Z info: POST /login
+2024-07-17T11:59:53.061Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T03:33:50.372Z info: Server is running on port 3000
+2024-07-18T03:34:14.531Z info: Server is running on port 3000
+2024-07-18T03:37:28.806Z info: POST /login
+2024-07-18T03:37:28.807Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T03:46:01.902Z info: POST /login
+2024-07-18T03:46:01.903Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T03:51:35.909Z info: POST /login
+2024-07-18T03:51:35.910Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T03:57:35.941Z info: POST /login
+2024-07-18T03:57:35.942Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T03:59:15.127Z info: POST /login
+2024-07-18T03:59:15.127Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T04:03:35.558Z info: POST /login
+2024-07-18T04:03:35.558Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T04:13:36.399Z info: POST /login
+2024-07-18T04:13:36.399Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T04:41:27.882Z info: Server is running on port 3000
+2024-07-18T04:43:44.036Z info: POST /login
+2024-07-18T04:43:44.036Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T04:56:09.296Z info: Server is running on port 3000
+2024-07-18T05:03:24.758Z info: POST /login
+2024-07-18T05:03:24.759Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T05:08:19.803Z info: POST /login
+2024-07-18T05:08:19.804Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T05:23:01.859Z info: Server is running on port 3000
+2024-07-18T05:28:46.688Z info: POST /login
+2024-07-18T05:28:46.688Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T05:30:42.829Z info: POST /login
+2024-07-18T05:30:42.829Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T05:36:35.354Z info: POST /login
+2024-07-18T05:36:35.355Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T05:44:04.077Z info: Server is running on port 3000
+2024-07-18T05:47:19.765Z info: POST /login
+2024-07-18T05:47:19.765Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T05:58:18.539Z info: POST /login
+2024-07-18T05:58:18.540Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T06:01:43.790Z info: Server is running on port 3000
+2024-07-18T06:04:22.995Z info: POST /login
+2024-07-18T06:04:22.996Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T06:07:41.814Z info: POST /login
+2024-07-18T06:07:41.814Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T06:12:13.074Z info: POST /login
+2024-07-18T06:12:13.074Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T06:16:19.500Z info: Server is running on port 3000
+2024-07-18T06:18:39.783Z info: POST /login
+2024-07-18T06:18:39.784Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T06:26:34.650Z info: POST /login
+2024-07-18T06:26:34.651Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T06:27:25.985Z info: POST /login
+2024-07-18T06:27:25.986Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T06:29:28.136Z info: POST /login
+2024-07-18T06:29:28.136Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T09:06:47.494Z info: Server is running on port 3000
+2024-07-18T09:10:06.236Z info: POST /login
+2024-07-18T09:10:06.236Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T09:12:20.969Z info: POST /login
+2024-07-18T09:12:20.970Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T09:14:37.904Z info: POST /login
+2024-07-18T09:14:37.905Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T09:23:44.760Z info: POST /login
+2024-07-18T09:23:44.761Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T09:23:51.468Z info: POST /login
+2024-07-18T09:23:51.469Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcde"}
+2024-07-18T09:24:52.311Z info: POST /login
+2024-07-18T09:24:52.312Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcde"}
+2024-07-18T09:25:19.858Z info: POST /login
+2024-07-18T09:25:19.859Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T09:29:38.181Z info: POST /login
+2024-07-18T09:29:38.182Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T09:43:42.585Z info: POST /login
+2024-07-18T09:43:42.585Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T09:48:17.969Z info: POST /login
+2024-07-18T09:48:17.969Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T10:02:41.918Z info: POST /login
+2024-07-18T10:02:41.920Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T10:29:11.504Z info: POST /login
+2024-07-18T10:29:11.505Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T10:35:32.732Z info: POST /login
+2024-07-18T10:35:32.733Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T10:36:59.537Z info: POST /login
+2024-07-18T10:36:59.539Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T10:38:48.900Z info: POST /login
+2024-07-18T10:38:48.901Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-18T10:42:27.379Z info: POST /login
+2024-07-18T10:42:27.379Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-19T04:24:28.702Z info: Server is running on port 3000
+2024-07-19T04:25:17.529Z info: Server is running on port 3000
+2024-07-19T04:33:37.511Z info: Server is running on port 3000
+2024-07-19T04:36:34.876Z info: POST /login
+2024-07-19T04:36:34.876Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-19T04:45:23.155Z info: POST /login
+2024-07-19T04:45:23.155Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-19T04:47:04.487Z info: POST /login
+2024-07-19T04:47:04.487Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-19T04:48:22.782Z info: POST /login
+2024-07-19T04:48:22.782Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-19T04:55:07.425Z info: Server is running on port 3000
+2024-07-19T04:58:10.697Z info: POST /login
+2024-07-19T04:58:10.697Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-19T05:00:14.713Z info: Server is running on port 3000
+2024-07-19T05:01:01.417Z info: POST /login
+2024-07-19T05:01:01.417Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-19T05:06:10.900Z info: POST /login
+2024-07-19T05:06:10.901Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-19T05:15:51.379Z info: Server is running on port 3000
+2024-07-19T05:21:49.770Z info: Server is running on port 3000
+2024-07-19T05:24:11.692Z info: POST /login
+2024-07-19T05:24:11.692Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-19T05:26:37.547Z info: POST /login
+2024-07-19T05:26:37.548Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-19T05:30:45.122Z info: POST /login
+2024-07-19T05:30:45.123Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-19T05:57:13.534Z info: Server is running on port 3000
+2024-07-19T06:08:48.961Z info: Server is running on port 3000
+2024-07-19T06:18:59.022Z info: Server is running on port 3000
+2024-07-19T06:23:57.333Z info: Server is running on port 3000
+2024-07-19T09:33:19.208Z info: Server is running on port 3000
+2024-07-19T09:42:49.387Z info: Server is running on port 3000
+2024-07-19T09:45:16.580Z info: POST /login
+2024-07-19T09:45:16.580Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-19T09:54:05.299Z info: Server is running on port 3000
+2024-07-19T09:57:46.049Z info: Server is running on port 3000
+2024-07-19T10:01:15.567Z info: POST /login
+2024-07-19T10:01:15.568Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-19T10:16:08.223Z info: POST /login
+2024-07-19T10:16:08.224Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-19T10:22:56.315Z info: POST /login
+2024-07-19T10:22:56.316Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-19T10:30:23.819Z info: Server is running on port 3000
+2024-07-19T10:31:35.123Z info: Server is running on port 3000
+2024-07-19T10:34:40.610Z info: Server is running on port 3000
+2024-07-19T10:37:03.832Z info: POST /login
+2024-07-19T10:37:03.833Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-19T10:46:11.746Z info: POST /login
+2024-07-19T10:46:11.747Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-19T10:46:35.339Z info: POST /login
+2024-07-19T10:46:35.340Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-19T10:48:06.207Z info: POST /login
+2024-07-19T10:48:06.207Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-19T10:54:12.852Z info: POST /login
+2024-07-19T10:54:12.853Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-19T10:57:00.418Z info: POST /login
+2024-07-19T10:57:00.419Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-19T10:57:59.964Z info: POST /login
+2024-07-19T10:57:59.965Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-19T10:59:09.425Z info: POST /login
+2024-07-19T10:59:09.426Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-19T11:02:20.329Z info: POST /login
+2024-07-19T11:02:20.330Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-19T11:02:53.042Z info: POST /login
+2024-07-19T11:02:53.042Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-19T11:04:10.546Z info: POST /login
+2024-07-19T11:04:10.547Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-20T03:40:34.935Z info: Server is running on port 3000
+2024-07-20T03:44:43.041Z info: Server is running on port 3000
+2024-07-20T03:47:47.630Z info: POST /login
+2024-07-20T03:47:47.631Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-20T03:49:39.840Z info: POST /login
+2024-07-20T03:49:39.840Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-20T03:52:50.667Z info: POST /login
+2024-07-20T03:52:50.668Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-20T03:54:44.781Z info: POST /login
+2024-07-20T03:54:44.782Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-20T04:05:33.278Z info: Server is running on port 3000
+2024-07-20T04:11:02.842Z info: Server is running on port 3000
+2024-07-20T04:13:10.479Z info: POST /login
+2024-07-20T04:13:10.480Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-20T04:14:43.501Z info: POST /login
+2024-07-20T04:14:43.502Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-20T04:19:54.630Z info: Server is running on port 3000
+2024-07-20T04:26:24.468Z info: Server is running on port 3000
+2024-07-20T04:31:22.362Z info: POST /LoginScreen
+2024-07-20T04:33:01.217Z info: POST /LoginScreen
+2024-07-20T04:36:27.556Z info: Server is running on port 3000
+2024-07-20T04:41:21.361Z info: Server is running on port 3000
+2024-07-20T04:42:49.398Z info: POST /login
+2024-07-20T04:42:49.399Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-20T04:45:47.446Z info: POST /login
+2024-07-20T04:45:47.447Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-20T04:50:41.619Z info: POST /login
+2024-07-20T04:50:41.620Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-20T04:53:42.652Z info: Server is running on port 3000
+2024-07-20T04:55:32.629Z info: POST /login
+2024-07-20T04:55:32.630Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-20T05:05:20.595Z info: POST /login
+2024-07-20T05:05:20.596Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-20T05:08:37.766Z info: POST /login
+2024-07-20T05:08:37.766Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-20T05:09:09.346Z info: POST /login
+2024-07-20T05:09:09.347Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-20T05:22:40.176Z info: POST /login
+2024-07-20T05:22:40.177Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-20T05:22:58.808Z info: GET /login
+2024-07-20T05:23:07.573Z info: GET /login
+2024-07-20T05:29:25.177Z info: Server is running on port 3000
+2024-07-20T05:32:58.517Z info: POST /login
+2024-07-20T05:32:58.518Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-20T05:45:46.963Z info: Server is running on port 3000
+2024-07-20T05:55:49.885Z info: Server is running on port 3000
+2024-07-20T06:15:45.379Z info: Server is running on port 3000
+2024-07-20T06:19:37.251Z info: POST /LoginScreen
+2024-07-20T06:20:13.784Z info: GET /LoginScreen
+2024-07-20T06:20:53.525Z info: POST /Login
+2024-07-20T06:20:53.526Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-20T06:28:17.626Z info: Server is running on port 3000
+2024-07-20T06:35:18.707Z info: POST /WelcomeScreen
+2024-07-20T06:46:50.253Z info: Server is running on port 3000
+2024-07-20T06:49:10.991Z info: POST /login
+2024-07-20T06:49:10.991Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-20T09:56:45.188Z info: Server is running on port 3000
+2024-07-20T10:00:52.877Z info: POST /login
+2024-07-20T10:00:52.877Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-20T10:03:22.438Z info: POST /login
+2024-07-20T10:03:22.439Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-20T10:08:07.061Z info: POST /login
+2024-07-20T10:08:07.062Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-20T10:11:08.142Z info: Server is running on port 3000
+2024-07-20T10:12:48.554Z info: POST /login
+2024-07-20T10:12:48.555Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-20T10:13:45.051Z info: POST /login
+2024-07-20T10:13:45.052Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-20T10:20:52.733Z info: POST /create-account
+2024-07-20T10:22:09.472Z info: Server is running on port 3000
+2024-07-20T10:30:37.382Z info: GET /create-account
+2024-07-20T10:32:29.790Z info: POST /create-account
+2024-07-20T10:32:29.858Z error: Error creating account: Cannot enqueue Query after fatal error.
+2024-07-20T10:36:57.808Z info: POST /create-account
+2024-07-20T10:36:57.874Z error: Error creating account: Cannot enqueue Query after fatal error.
+2024-07-20T10:41:10.194Z info: Server is running on port 3000
+2024-07-20T10:44:54.967Z info: POST /login
+2024-07-20T10:44:54.968Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-20T10:53:18.872Z info: POST /createaccount
+2024-07-20T10:53:31.533Z info: GET /createaccount
+2024-07-20T10:56:44.062Z info: Server is running on port 3000
+2024-07-20T11:06:25.195Z info: GET /
+2024-07-20T11:20:08.703Z info: POST /login
+2024-07-20T11:20:08.703Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-20T11:23:05.804Z info: Server is running on port 3000
+2024-07-20T11:25:09.845Z info: GET /
+2024-07-22T03:52:09.085Z info: Server is running on port 3000
+2024-07-22T03:59:01.359Z info: POST /login
+2024-07-22T03:59:01.359Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-22T04:30:36.294Z info: Server is running on port 3000
+2024-07-22T04:38:56.866Z info: POST /login
+2024-07-22T04:38:56.867Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-22T04:38:56.872Z info: POST /login
+2024-07-22T04:38:56.872Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-22T05:02:33.046Z info: Server is running on port 3000
+2024-07-22T05:06:47.506Z info: POST /login
+2024-07-22T05:06:47.507Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-22T05:21:49.720Z info: Server is running on port 4000
+2024-07-22T05:29:33.418Z info: GET /createaccount
+2024-07-22T05:36:09.266Z info: POST /createaccount
+2024-07-22T05:36:30.277Z info: GET /createaccount
+2024-07-22T05:40:25.206Z info: GET /create-account
+2024-07-22T05:40:28.403Z info: GET /create-account
+2024-07-22T05:40:29.179Z info: GET /create-account
+2024-07-22T05:40:29.387Z info: GET /create-account
+2024-07-22T05:40:29.579Z info: GET /create-account
+2024-07-22T05:40:29.778Z info: GET /create-account
+2024-07-22T05:50:24.255Z info: Server is running on port 4000
+2024-07-22T05:50:43.925Z info: Server is running on port 3000
+2024-07-22T05:55:40.600Z info: POST /login
+2024-07-22T05:55:40.601Z info: Incoming POST request to /login: {"email":"tdivyatripathi@gmail.com","password":"abcd"}
+2024-07-22T06:09:02.341Z info: Server is running on port 4000
+2024-07-22T06:12:40.811Z info: POST /createaccount
+2024-07-22T06:12:40.940Z error: Error creating account: Table 'namasteindia.users' doesn't exist
+2024-07-22T06:28:25.739Z info: POST /createaccount
+2024-07-22T06:28:25.811Z error: Error creating account: Table 'namasteindia.users' doesn't exist
+2024-07-22T06:28:42.729Z info: GET /createaccount
+2024-07-22T06:39:57.254Z info: GET /
+2024-07-22T06:43:28.677Z info: POST /
+2024-07-22T06:44:24.489Z info: POST /
+2024-07-22T06:49:26.980Z info: POST /createaccount
+2024-07-22T06:49:27.062Z error: Error creating account: Table 'namasteindia.users' doesn't exist
